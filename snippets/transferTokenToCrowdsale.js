@@ -1,0 +1,1 @@
+t.transferOwnership(c.address);

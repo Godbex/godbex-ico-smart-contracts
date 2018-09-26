@@ -1,0 +1,7 @@
+node_modules/*
+!node_modules/zeppelin-solidity
+build
+chaindata/geth/
+chaindata/history
+.vscode/
+.idea

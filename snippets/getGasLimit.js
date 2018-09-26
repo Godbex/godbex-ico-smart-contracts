@@ -1,0 +1,2 @@
+eth.getBlock("pending").gasLimit
+
